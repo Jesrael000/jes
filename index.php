@@ -1,5 +1,5 @@
 <?php 
 
-echo "Salamat";
+echo "Thanks";
 
  ?>
